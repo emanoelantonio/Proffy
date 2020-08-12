@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://github.com/emanoelantonio/Proffy/blob/master/public/images/Banner/Banner.jpg)
 
 <a href="https://github.com/emanoelantonio/Proffy/master/LICENSE.md">
 <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=1A1818&style=for-the-badge&logo=github"/>
@@ -91,7 +91,7 @@ The license for this project is MIT, earn more about the <a href="https://github
  <br /> 
  <sub>Emanoel Antonio 👨🏻‍💻</sub>
 
- ##### " This whole project was made during NLW, keep coding! " 
+ ##### " To be continue... " 
  <a href="https://www.linkedin.com/in/emanoel-antonio-silva/">
 <img align="center" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=3D008A&style=for-the-badge&logo=linkedin"/>
 </a>
