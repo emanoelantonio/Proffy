@@ -40,15 +40,13 @@ Proffy's an online educational platform that allows students end teachers intera
 * <a href="https://nodejs.org/en/">Node Js</a><small>
 
 #### 🗄️ Server :
+Clone this repository
 ```
- Clone this repository
-
  $ git clone <https://github.com/emanoelantonio/Proffy/nlw>
-
+```
  Access the project folder in the / cmd terminal
- 
+```
  $ cd Proffy NLW
-
 ```
 
 ### Technologies Used 
