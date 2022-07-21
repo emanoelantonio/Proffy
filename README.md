@@ -8,8 +8,8 @@ Proffy's an online educational platform that allows students end teachers intera
 
 ### Content
 * [Getting Started](#Getting-Started-)
-    *[Features](#Features)
-    *[Prerequisites](#Prerequisites)
+    * [Features](#Features)
+    * [Prerequisites](#Prerequisites)
 * [Requirements](#Requirements)
     * [Web](#Web)
     * [Server](#Server)
