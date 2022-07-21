@@ -65,17 +65,28 @@ You can report your problems in <a href="https://github.com/emanoelantonio/Proff
 
 
 ### First, you need a local fork of the project on your machine.
+```
 $ gh repo fork emanoel/Proffy/
+```
 ### Clone your fork
+```
 $ git clone https://github.com/emanoelantonio/Proffy.git
+```
+```
 $ cd Proffy nlw
+```
 #### Create a branch with your feature
+```
 $ git add {modified file name}
+```
 #### Make the commit with your changes
+```
 $ git commit -m “Comments”
+```
 #### Send the code to your remote branch
+```
 $ git push origin {branch-name}
-
+```
 
 #### 📑 License :
 
